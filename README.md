@@ -137,7 +137,7 @@ output/
 
 -    Forgotten Endpoint Discovery
 
-## Disclaimer
+## ⚠️  Disclaimer
 
 This tool is for educational and authorized security testing only.
 Do NOT use it against systems without permission.
